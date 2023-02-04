@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# New approach to “punishment and reward” method of training artificial intelligence offers potential key to unlock new treatments for aggressive cancers
+
+## [Link](https://www.surrey.ac.uk/news/new-approach-punishment-and-reward-method-training-artificial-intelligence-offers-potential-key)
+
+## Thoughts
+<p>Over the years, I have read a plethora of news regarding new groundbreaking breakthroughs in cancer research. However, this  the first time that I've read about the use of artificial intelligence and machine learning in aiding the research. My first reaction was that of intrigue, as up until now, I've thought of cancer research as that mostly conducted in medical fields. I was pleasantly surprised with the scope of fields that computer science and software engineering can be used to contribute towards solving various prominent problems of the world. In addition, the concept of "reinforcement learning" in machine learning was very surreal to me, as I never expected that the "reward and punishment" system, something that feels too "human" to me, could be used to train AI models that lack emotions. </p>
